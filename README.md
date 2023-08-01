@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Einherjar</h1>
 <h3 align="center">A toxic Bitcoin-maximalist and Rust/Python developer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h3 align="center">I am looking for career opportunities in Bitcoin-related jobs</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<br>  
+
+<p align="center">
   <a href="https://www.bitcoin.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="bitcoin" width="40" height="40"/> </a>
   <a href="https://www.lightning.network" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Lightning_Network.svg" alt="lightning" width="40" height="40"/> </a>
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
