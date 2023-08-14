@@ -16,8 +16,12 @@
   <a href="https://www.github.com/rust-bitcoin" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/37084147?s=200&v=4" alt="bitcoin-rust" width="40" height="40"/> </a>
   -->
   <a href="https://www.bitcoindevkit.org" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/62867074?s=200&v=4" alt="bdk" width="40" height="40"/> </a>
+  <!--
   <a href="https://www.lightningdevkit.org" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/60484029?s=200&v=4" alt="ldk" width="40" height="40"/> </a>
+  -->
+  <!--
   <a href="https://www.dioxuslabs.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/79236386?s=200&v=4" alt="ldk" width="40" height="40"/> </a>
+  -->
   <a href="https://www.nixos.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/NixOS/nixos-artwork/raw/master/logo/nix-snowflake.svg" alt="nixos" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <!--
