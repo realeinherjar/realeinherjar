@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Einherjar</h1>
 <h3 align="center">A toxic Bitcoin-maximalist and Rust/Python developer</h3>
 
-<h3 align="center">I am looking for career opportunities in Bitcoin-related jobs</h3>
-
 <br>  
 
 <p align="center">
